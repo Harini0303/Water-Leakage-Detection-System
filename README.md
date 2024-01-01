@@ -2,11 +2,10 @@
 <!--<p>This project aims to develop an Arduino-based water leakage detection system for residential areas. The system is designed to monitor water leakage automatically, making it cost-effective and efficient. The system uses the Agile model, which is well-suited for dealing with the demands of connected devices. Testing is an important element of each stage of the development process, and the Agile model helps adjust the approach to target high-priority issues. The system is designed to be secure, continuous, and reliable, reducing the need for field monitoring. The system also allows for remote data monitoring and control, saving lives and avoiding unpleasant scenarios. The system is designed to be cost-effective, convenient, and fast, preventing water waste and ensuring safety.</p>-->
 ## Overview
 
-This project aims to develop an Arduino-based water leakage detection system for residential areas. The system is designed to monitor water leakage automatically, making it cost-effective and low-cost. The system does not require manual labor and is designed to avoid water waste from uncontrolled use in homes and offices. The system is also more economical, convenient, and fast, as it informs nearby people in real-time about water level variations.
-
+This project aims to develop an Arduino-based water leakage detection system for residential areas. The system is designed to monitor water leakage automatically, making it cost-effective and low-cost. The system does not require manual labor and is designed to avoid water waste from uncontrolled use in homes and offices.
 ## Development Methodology
 
-The Agile model is used in the development of this IoT project, making it easier to adjust the approach to target high-priority issues. The iterative and incremental development process allows for flexibility in responding to changing requirements and ensures a more adaptive and efficient development lifecycle.
+The model is used in the development of this IoT project, making it easier to adjust the approach to target high-priority issues. The iterative and incremental development process allows for flexibility in responding to changing requirements and ensures a more adaptive and efficient development lifecycle.
 
 <!--## Key Features
 
@@ -39,7 +38,6 @@ The Agile model is used in the development of this IoT project, making it easier
 2. **Software Requirements:**
    - Arduino IDE
    - IoT Platform (for remote monitoring)
-   - [List any additional software or libraries]
 
 3. **Installation:**
    - Connect the hardware components as per the provided schematic.
