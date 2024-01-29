@@ -7,20 +7,6 @@ This project aims to develop an Arduino-based water leakage detection system for
 
 The model is used in the development of this IoT project, making it easier to adjust the approach to target high-priority issues. The iterative and incremental development process allows for flexibility in responding to changing requirements and ensures a more adaptive and efficient development lifecycle.
 
-<!--## Key Features
-
-- **Cost-Effective and Low-Cost:** The system is designed with cost-effectiveness in mind, making it accessible for residential use.
-
-- **Automatic Monitoring:** The system monitors water leakage automatically, eliminating the need for manual intervention.
-
-- **Real-time Notifications:** Users receive real-time notifications about water level variations, ensuring prompt action.
-
-- **Remote Control:** The system can be easily controlled from a remote server, ensuring that it stays up-to-date and accurate.
-
-- **Security:** The system is designed with security in mind, ensuring the protection of sensitive data and preventing unauthorized access.
-
-- **Continuous Monitoring:** The system provides continuous monitoring, reducing the need for frequent field visits and manual checks.-->
-
 ## Development Environment
 
 - **Arduino Platform:** The project is developed using the Arduino platform, making it accessible and easy to implement.
