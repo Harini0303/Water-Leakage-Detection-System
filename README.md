@@ -3,6 +3,7 @@
 ## Overview
 
 This project aims to develop an Arduino-based water leakage detection system for residential areas. The system is designed to monitor water leakage automatically, making it cost-effective and low-cost. The system does not require manual labor and is designed to avoid water waste from uncontrolled use in homes and offices.
+
 ## Development Methodology
 
 The model is used in the development of this IoT project, making it easier to adjust the approach to target high-priority issues. The iterative and incremental development process allows for flexibility in responding to changing requirements and ensures a more adaptive and efficient development lifecycle.
@@ -41,5 +42,6 @@ Contributions are welcome! If you have suggestions, enhancements, or bug fixes, 
 ## Conclusion
 
 This system identifies and alerts about leaks in water supply or plumbing systems to prevent water wastage and potential damage to property.
-
+<img src="poster_Innovsense.pdf">
+<br><br>
 <img src="Picture1.jpg" width="40%" height="30%">
